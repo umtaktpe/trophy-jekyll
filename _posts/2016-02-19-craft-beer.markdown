@@ -5,12 +5,12 @@ date: 2017-02-25
 categories:
   - Blog
 description: 
-image: /root/Desktop/umtaktp/_posts/github.png
-image-sm: /root/Desktop/umtaktp/_posts/github.png
+image: http://i.hizliresim.com/Ja7LYY.png
+image-sm: http://i.hizliresim.com/Ja7LYY.png
 ---
 
-<h3>Gİthub.io BLog Oluşturma</h3>
-<h2>1-Jekyll Tema Seçimi</h2>
+<h2>Gİthub.io BLog Oluşturma</h2>
+<h3>1-Jekyll Tema Seçimi</h3>
 
 <p>Merhaba arkadaşlar, bu yazımda sizlere github.io ile nasıl blog sayfası oluşturulduğunu anlatacağım.İlk olarak <a href="http://jekyllthemes.org/">http://jekyllthemes.org/</a> sitesinden kendimize bir tema seçmemiz gerekiyor.</p>
 
@@ -42,7 +42,7 @@ image-sm: /root/Desktop/umtaktp/_posts/github.png
   <img src="http://i.hizliresim.com/2rYmMO.png" alt="Placeholder"/>
 </figure>
 
-<h2>2-Git Üzerinden Post Ekleme ve Düzenleme</h2>
+<h3>2-Git Üzerinden Post Ekleme ve Düzenleme</h3>
 
 <p>Bu kısımda oluşturduğumuz sitenin postlarını düzenlemeyi anlatacağım.İlk olarak bilgisayarımıza git kuruyoruz.Ardından git yardımıyla github projemizde bulunan dosyaları bilgisayarımıza indiriyoruz.Bunun için sağ üstte bulunan clone or download kısmına tıklayıp url’yi kopyalıyoruz.Terminalimizi açıp git clone komutuyla projemizi indiriyoruz.</p>
 

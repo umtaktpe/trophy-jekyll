@@ -10,7 +10,7 @@ image-sm: /root/Desktop/umtaktp/_posts/github.png
 ---
 
 <h3>Gİthub.io BLog Oluşturma</h3>
-1-Jekyll Tema Seçimi
+<h2>1-Jekyll Tema Seçimi</h2>
 
 <p>Merhaba arkadaşlar, bu yazımda sizlere github.io ile nasıl blog sayfası oluşturulduğunu anlatacağım.İlk olarak <a href="http://jekyllthemes.org/">http://jekyllthemes.org/</a> sitesinden kendimize bir tema seçmemiz gerekiyor.</p>
 
@@ -42,7 +42,7 @@ image-sm: /root/Desktop/umtaktp/_posts/github.png
   <img src="http://i.hizliresim.com/2rYmMO.png" alt="Placeholder"/>
 </figure>
 
-<h3>2-Git Üzerinden Post Ekleme ve Düzenleme</h3>
+<h2>2-Git Üzerinden Post Ekleme ve Düzenleme</h2>
 
 <p>Bu kısımda oluşturduğumuz sitenin postlarını düzenlemeyi anlatacağım.İlk olarak bilgisayarımıza git kuruyoruz.Ardından git yardımıyla github projemizde bulunan dosyaları bilgisayarımıza indiriyoruz.Bunun için sağ üstte bulunan clone or download kısmına tıklayıp url’yi kopyalıyoruz.Terminalimizi açıp git clone komutuyla projemizi indiriyoruz.</p>
 
@@ -55,3 +55,11 @@ image-sm: /root/Desktop/umtaktp/_posts/github.png
 <figure>
   <img src="http://i.hizliresim.com/2rY770.png" alt="Placeholder"/>
 </figure>
+
+<p>Bu işlemleri yaptıktan sonra git yardımıyla değiştirdiğimiz dosyaları tekrar github’a yüklüyoruz.</p>
+
+<figure>
+  <img src="http://i.hizliresim.com/P0Y40b.png" alt="Placeholder"/>
+</figure>
+
+<p>Eğer istersek _config.yml dosyası yardmıyla sitemizin ayarlarını da değiştirebiliriz.</p>

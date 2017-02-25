@@ -59,7 +59,7 @@ image-sm: http://i.hizliresim.com/vbQzpr.png
 <p>Bu işlemleri yaptıktan sonra git yardımıyla değiştirdiğimiz dosyaları tekrar github’a yüklüyoruz.</p>
 
 <figure>
-  <img src="http://i.hizliresim.com/P0Y40b.png" alt="Placeholder"/>
+  <img src="http://i.hizliresim.com/vbQYoD.png" alt="Placeholder"/>
 </figure>
 
 <p>Eğer istersek _config.yml dosyası yardmıyla sitemizin ayarlarını da değiştirebiliriz.</p>

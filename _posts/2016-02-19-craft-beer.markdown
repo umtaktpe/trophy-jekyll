@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Craft Beer"
-date: 2016-02-19
+title: "Github.io BLog Oluşturma"
+date: 2017-02-25
 categories:
-  - Juice
+  - Blog
 description: 
-image: https://unsplash.it/2000/1200?image=1003
-image-sm: https://unsplash.it/500/300?image=1003
+image: /root/Desktop/umtaktp/_posts/github.png
+image-sm: /root/Desktop/umtaktp/_posts/github.png
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,

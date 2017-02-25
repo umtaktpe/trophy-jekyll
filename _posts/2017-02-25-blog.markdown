@@ -9,7 +9,7 @@ image: http://i.hizliresim.com/vbQzpr.png
 image-sm: http://i.hizliresim.com/vbQzpr.png
 ---
 
-<h3>Gİthub.io BLog Oluşturma</h3>
+<h1>Gİthub.io BLog Oluşturma</h1>
 <h2>1-Jekyll Tema Seçimi</h2>
 
 <p>Merhaba arkadaşlar, bu yazımda sizlere github.io ile nasıl blog sayfası oluşturulduğunu anlatacağım.İlk olarak <a href="http://jekyllthemes.org/">http://jekyllthemes.org/</a> sitesinden kendimize bir tema seçmemiz gerekiyor.</p>

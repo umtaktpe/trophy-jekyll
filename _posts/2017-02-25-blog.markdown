@@ -62,4 +62,4 @@ image-sm: http://i.hizliresim.com/vbQzpr.png
   <img src="http://i.hizliresim.com/vbQYoD.png" alt="Placeholder"/>
 </figure>
 
-<p>Eğer istersek _config.yml dosyası yardmıyla sitemizin ayarlarını da değiştirebiliriz.</p>
+<p>Eğer istersek _config.yml dosyası yardımıyla sitemizin ayarlarını da değiştirebiliriz.</p>

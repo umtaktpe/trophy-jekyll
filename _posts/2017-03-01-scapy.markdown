@@ -24,8 +24,8 @@ image-sm:
 <p>Scapy’de kullanılan komutlardan bazıları şunlardır:</p>
 
 <ul>
-	<li>ls() --> Protokolleri listeler.</li>
-	<li>ls(protocol_name) --> Protokol hakkında bilgi verir.</li>
+	<li>ls() → Protokolleri listeler.</li>
+	<li>ls(protocol_name) → Protokol hakkında bilgi verir.</li>
 	<li>send() → Paketleri gönderir.</li>
 	<li>sendp() → 2. katmana paket gönderir.</li>
 </ul>

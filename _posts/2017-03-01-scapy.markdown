@@ -39,7 +39,7 @@ image-sm:
 <h3>TCP Paketi(SYN):</h3>
 
 <figure>
-  <img src="http://i.hizliresim.com/ldL6Ab.png"/>
+  <img src="http://i.hizliresim.com/GBErnb.png"/>
 </figure>
 
 <h3>DNS Paketi:</h3>

@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Scapy Nedir?"
+date: 2017-03-01
+categories:
+  - Network
+description: 
+image:
+image-sm: 
+---
+
+<h3>Scapy Nedir?</h3>
+
+<p>Scapy, python ile yazılmış komut satırından çalışan bir programdır.Amacı TCP/IP ağlar için özelliştirilmiş paket göndermektir.Bu paketleri açık portları bulmak için gönderebiliriz.Karşı sistemdeki açıkları bu paketler yardımıyla bulabiliriz.</p>
+
+<h3>Scapy Kullanımı</h3>
+
+<p>Komut satırına scapy yazarak programı başlatabiliriz.</p>
+
+<figure>
+  <img src="http://i.hizliresim.com/yEmrra.png"/>
+</figure>
+
+<p>Scapy’de kullanılan komutlardan bazıları şunlardır:</p>
+
+<ul>
+	<li>ls() --> Protokolleri listeler.</li>
+	<li>ls(protocol_name) --> Protokol hakkında bilgi verir.</li>
+	<li>send() → Paketleri gönderir.</li>
+	<li>sendp() → 2. katmana paket gönderir.</li>
+</ul>
+
+<h3>ICMP Paketi</h3>
+
+<figure>
+  <img src="http://i.hizliresim.com/ldL6Ab.png"/>
+</figure>
+
+<h3>TCP Paketi(SYN):</h3>
+
+<figure>
+  <img src="http://i.hizliresim.com/ldL6Ab.png"/>
+</figure>
+
+<h3>DNS Paketi:</h3>
+
+<figure>
+  <img src="http://i.hizliresim.com/ALEda0.png"/>
+</figure>

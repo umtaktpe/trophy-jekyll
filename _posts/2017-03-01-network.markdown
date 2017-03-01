@@ -46,22 +46,22 @@ image-sm: http://i.hizliresim.com/5g46al.gif
 
 <h3>Genel Kavramlar</h3>
 
-<p><h2>MAC Adresi:</h2>Kullanılan donanımlara verilen adrestir.MAC adresi fiziksel bir adrestir ve ağ donanımlarının tanımlanmasını sağlar.MAC adresi unique(eşsiz)’dir.Bir MAC adresi 6 oktetten oluşur.İlk 3 oktet üreticiyi, son 3 oktet ise donanımı işaret eder.</p>
+<p><h4>MAC Adresi:</h4>Kullanılan donanımlara verilen adrestir.MAC adresi fiziksel bir adrestir ve ağ donanımlarının tanımlanmasını sağlar.MAC adresi unique(eşsiz)’dir.Bir MAC adresi 6 oktetten oluşur.İlk 3 oktet üreticiyi, son 3 oktet ise donanımı işaret eder.</p>
 
-<p><h2>ARP:</h2>Bu protokol IP adresinden MAC adresini bulmayı sağlar.</p>
+<p><h4>ARP:</h4>Bu protokol IP adresinden MAC adresini bulmayı sağlar.</p>
 
-<p><h2>RARP:</h2>Bu protokol ise ARP’ın tersi olarak MAC adresinden IP adresine ulaşmayı sağlar.</p>
+<p><h4>RARP:</h4>Bu protokol ise ARP’ın tersi olarak MAC adresinden IP adresine ulaşmayı sağlar.</p>
 
-<p><h2>DNS(Domain Name System):</h2>nternet ağını oluşturan her birim bir IP adresine sahiptir.Kullanıcaların kolay hatırlaması için bu IP’lere bir www.example.com şeklinde bir domain atanabilir.DNS sunucuları da bu IP adreslerine karşılık gelen domainleri saklar.DNS’in birden fazla kayıt türü vardır.Bunlar:</p>
+<p><h4>DNS(Domain Name System):</h4>nternet ağını oluşturan her birim bir IP adresine sahiptir.Kullanıcaların kolay hatırlaması için bu IP’lere bir www.example.com şeklinde bir domain atanabilir.DNS sunucuları da bu IP adreslerine karşılık gelen domainleri saklar.DNS’in birden fazla kayıt türü vardır.Bunlar:</p>
 
 <ul>
-	<li><h2>A kaydı:</h2>Domainlerin IP adreslerini tutar.</li>
-	<li><h2>mx kaydı:</h2>DNS sunucuları bir veya birden fazla alan adından sorumludur.Bu alan adından sorumlu maillerin kayıtları burada tutulur.</li>
-	<li><h2>cname kaydı:</h2>Alan adlarının tutulduğu yer.</li>
-	<li><h2>ns kaydı:</h2>Alan adına ait authoritative DNS sunucusunun kaydının tutulduğu türdür.</li>
-	<li><h2>txt kaydı:</h2>Opsiyonel olarak bilgi tutulmak istendiğinde kullanılan kayıtlar.</li>
+	<li><h5>A kaydı:</h5>Domainlerin IP adreslerini tutar.</li>
+	<li><h5>mx kaydı:</h5>DNS sunucuları bir veya birden fazla alan adından sorumludur.Bu alan adından sorumlu maillerin kayıtları burada tutulur.</li>
+	<li><h5>cname kaydı:</h5>Alan adlarının tutulduğu yer.</li>
+	<li><h5>ns kaydı:</h5>Alan adına ait authoritative DNS sunucusunun kaydının tutulduğu türdür.</li>
+	<li><h5>txt kaydı:</h5>Opsiyonel olarak bilgi tutulmak istendiğinde kullanılan kayıtlar.</li>
 </ul>
 
-<p><h2>IP(Internet Protocol):</h2>Bu protokol her bir bilgisayarın eşsiz bir adresi olsun diye ortaya çıkmış bir protokoldür.İki versiyonu vardır.IPv4(32 bit) ve IPv6(128 bit).</p>
+<p><h4>IP(Internet Protocol):</h4>Bu protokol her bir bilgisayarın eşsiz bir adresi olsun diye ortaya çıkmış bir protokoldür.İki versiyonu vardır.IPv4(32 bit) ve IPv6(128 bit).</p>
 
-<p><h2>DHCP(Dynamic Host Control Protocol):</h2>Bilgisayara IP, Gateway, DNS, Proxy vermeye yarayan protokoldür.</p>
+<p><h4>DHCP(Dynamic Host Control Protocol):</h4>Bilgisayara IP, Gateway, DNS, Proxy vermeye yarayan protokoldür.</p>

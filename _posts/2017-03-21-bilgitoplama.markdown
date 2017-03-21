@@ -5,8 +5,8 @@ date: 2017-03-21
 categories:
   - Network
 description: 
-image: http://i.hizliresim.com/5g46al.gif
-image-sm: http://i.hizliresim.com/5g46al.gif
+image: 
+image-sm:
 ---
 
 <h3>Pasif Bilgi Toplama</h3>

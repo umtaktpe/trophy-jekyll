@@ -79,10 +79,6 @@ image-sm:
 
 <p>Bu protokolde haberleşme isteği karşı tarafa bildirilir ve eğer karşı taraftan da yanıt gelirse haberleşme başlar.Bunun amacı haberleşmenin daha güvenli olmasını sağlamaktır.UDP protokolünde ise paket karşı tarafa gönderilir ama cevap beklenmez.Bu sayede TCP’ye göre daha hızlı haberleşme sağlar fakat daha güvensizdir.</p>
 
-<h4>Subdomain Tespiti</h4>
-
-<p>Tool kullanmadan sadece arama motorlarını kullanarak subdomain tespiti mümkündür.Örneğin, google üzerinde *.pau.edu.tr şeklinde arama yaptığımız zaman subdomainlere ulaşabiliriz.Tabii bunu kali tool’ları kullanarak yapmakta mümkün.</p>
-
 <ul>
 	<li>Fierce :</li>
 	<p>fierce -dns ankara.edu.tr</p>

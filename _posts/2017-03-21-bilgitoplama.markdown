@@ -37,8 +37,35 @@ image-sm:
 	</figure>
 <ul>
 
-<h4>2.Katman:Veri Bağlantısı Katmanı</h4>
-<p>Bu katmanda fiziksel olarak bağlı iki cihaz arasındaki haberleşmeyi sağlayan ve bu bağlantının koparılmasını sağlayan protokoller bulunur.(MAC,ARP,RARP).</p>
+<h4>DNS Analizi</h4>
+
+<ul>
+	<li>A kaydı:</li>
+	<p>dig www.linux.org.tr</p>
+	
+	<figure>
+  		<img src="http://i.hizliresim.com/QaQN1y.png"/>
+	</figure>
+
+	<li>NS kaydı:</li>
+	<p>dig www.linux.org.tr NS</p>
+
+	<figure>
+  		<img src="http://i.hizliresim.com/bryp4m.png"/>
+	</figure>
+
+	<li>SOA kaydı:</li>
+	<p>dig www.linux.org.tr SOA</p>
+	<figure>
+  		<img src="http://i.hizliresim.com/9QGA9Z.png"/>
+	</figure>
+
+	<li>Tüm DNS bilgileri:</li>
+	<figure>
+  		<img src="http://i.hizliresim.com/ojEp2X.png"/>
+	</figure>
+
+</ul>
 
 <h4>3.Katman:Ağ Katmanı</h4>
 <p>Veri paketlerinin farklı bir ağa gönderilmesi gerektiğinde, bu verilere gerekli bilgilerin eklenmesini sağlayan katmandır.Ağ katmanı,sunucular arası yönlendirme dahil olmak üzere,verinin kaynaktan hedefe gönderilmesinden sorumludur.Ancak bu verinin güvenli olarak gönderilip gönderilmediğini denetlemekten sorumlu değildir.(IP,IPv4,IPv6,ICMP).</p>

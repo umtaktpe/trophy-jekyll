@@ -70,15 +70,6 @@ image-sm:
 <h4>Subdomain Tespiti</h4>
 <p>Veri paketlerinin farklı bir ağa gönderilmesi gerektiğinde, bu verilere gerekli bilgilerin eklenmesini sağlayan katmandır.Ağ katmanı,sunucular arası yönlendirme dahil olmak üzere,verinin kaynaktan hedefe gönderilmesinden sorumludur.Ancak bu verinin güvenli olarak gönderilip gönderilmediğini denetlemekten sorumlu değildir.(IP,IPv4,IPv6,ICMP).</p>
 
-<h4>4.Katman:Taşıma Katmanı</h4>
-<p>Bu katmanda bulunan protokoller sayesinde biz paketleri gönderip alabiliriz.Bu protokoller TCP ve UDP’dir.TCP protokolü 3’lü el sıkışma mantığı ile çalışır.</p>
-
-<figure>
-  <img src="http://i.hizliresim.com/r3jz93.jpg"/>
-</figure>
-
-<p>Bu protokolde haberleşme isteği karşı tarafa bildirilir ve eğer karşı taraftan da yanıt gelirse haberleşme başlar.Bunun amacı haberleşmenin daha güvenli olmasını sağlamaktır.UDP protokolünde ise paket karşı tarafa gönderilir ama cevap beklenmez.Bu sayede TCP’ye göre daha hızlı haberleşme sağlar fakat daha güvensizdir.</p>
-
 <ul>
 	<li>Fierce :</li>
 	<p>fierce -dns ankara.edu.tr</p>

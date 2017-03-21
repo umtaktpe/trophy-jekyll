@@ -44,7 +44,7 @@ image-sm:
 	<p>dig www.linux.org.tr</p>
 	
 	<figure>
-  		<img src="http://i.hizliresim.com/QaQN1y.png"/>
+  		<img src="http://i.hizliresim.com/4P0Qgq.png"/>
 	</figure>
 
 	<li>NS kaydı:</li>

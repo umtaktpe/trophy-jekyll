@@ -106,7 +106,7 @@ image-sm:
   		<img src="http://i.hizliresim.com/1LNB3B.png"/>
 	</figure>
 
-<h3>Shodan kullanımı:</h3>
+<h4>Shodan kullanımı:</h4>
 
 <ul>
 	<li>Port Taraması</li>
@@ -127,3 +127,75 @@ image-sm:
 		</ul>
 </ul>
 
+<h4>Google Dork ile arama</h4>
+
+<ul>
+	<li>site:*.ankara.edu.tr --> subdomain listeler</li>
+	<li>inurl:login site:*.ankara.edu.tr</li>
+</ul>
+
+<h4>Cloudflare:</h4>
+
+<p>Siteleri koruyan bir firewall servisidir.Sitenin bilgilerini gizler.(ip,ddos savunma, vb.)</p>
+
+<ul>
+	<li>Atlatma yolları</li>
+		<ul>
+			<li>Ağ haritasını çıkararak </li>
+			<li>Subdomainlerinin ip adreslerine bakarak</li>
+			<li>Mail serverin ip adresine bakarak</li>
+			<li>Bazı otomatize araçlar ve scriptler sayesinde</li>
+		</ul>
+</ul>
+
+<h4>Lokasyon Tespiti:</h4>
+
+<p>ipinfo.io, ip2location.com, whois.domaintools.com (IP adresini aratarak)</p>
+
+<h4>İndirelebilir Dosyaların Keşifi</h4>
+
+<ul>
+	<li>google</li>
+		<ul><li>filetype:pdf ankara.edu.tr</li></ul>
+	<li>FOCA =windowsta çalışan ve hedefe ait bütün dosyaları tarayan içindeki user,pass,keywordleri çıkaran tool.</li>
+</ul>
+
+<h4>Reverse whois:</h4>
+
+<p>IP adresi veriyoruz. Bu IP adresine ait bilgilere ulaşıyoruz.</p>
+
+<ul>
+	<li>whois.com (sansürlü, güncel)</li>
+	<li>viewdns.info (sansürsüz, eski)</li>
+</ul>
+
+<h4>Alexa analizi:</h4>
+
+<ul><li>www.alexa.com : Domain'ler hakkında istatiksel bilgiler tutan bir servis.</li></ul>
+
+<h4>İş ilanları analizi:</h4>
+
+<ul><li>Bazen araştırılan hedef, kendisi hakkında donanım/yazılım bilgilerini iş ilanlarında paylaşmış olabilir.</li></ul>
+
+<h4>Archive.org analizi:</h4>
+<ul><li>archive.org : İnternet sitelerinin eski belgelerinin yer alıyor olabileceği bir servis. Bağımsız ve kar amacı gütmüyor.</li></ul>
+
+<h4>Sosyal medya hesaplarının analizi:</h4>
+<ul><li>Facebook'da paylaşığı fotoğraf bir çok bilgi verebilir. Örnek: Bilgisayarın ekran görüntüsü atmış olabilir. Kritik bir bilgi elde edebiliriz. (veriden veri üretme) (fotoğraftan parmak izi çıkartan adam örneği)</li></ul>
+
+<h4>Kaynak kod ve geliştirici firma analizi:</h4>
+
+<ul><li>Bir websitesinin kaynak kodları incelenerek bilgi elde edilebilir.</li></ul>
+
+<h4>Çalışanların geliştirici siteleri analizi:</h4>
+
+<ul><li>Hedef kurumdaki çalışanların github hesaplarından bilgi elde edilebilir.</li></ul>
+
+<h4>Pastebin üzerinden bilgi toplama:</h4>
+
+<ul>
+	<li>www.pastebin.com:</li>
+	<ul>
+		<li>Dump'ların vs. paylaşıldığı bir site.</li>
+	</ul>
+</ul>
